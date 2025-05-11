@@ -1,4 +1,4 @@
-# Turnover-detection-prevention
+# Employee-turnover-prediction-prevention
 Predicting employee turnover using machine learning — capstone project for the Google Advanced Data Analytics Specialisation.
 
 The task was to build a machine learning model to predict employee turnover at Salifort Motors and identify the key factors contributing to employee attrition. The project involved data cleaning, exploratory analysis, model training and evaluation, and generating actionable business insights based on model outcomes.
